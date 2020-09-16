@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'WFRT'
-copyright = '2020, Test'
-author = 'Test'
+project = 'WFRT-DEMO'
+copyright = '2020, Chris'
+author = 'Chris'
 
 
 # -- General configuration ---------------------------------------------------
