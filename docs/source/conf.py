@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Chris'
+project = 'WFRT'
 copyright = '2020, Test'
 author = 'Test'
 
