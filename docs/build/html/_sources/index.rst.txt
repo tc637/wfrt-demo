@@ -11,7 +11,7 @@ Welcome to Demo-wFRT's documentation!
    :caption: Contents:
 
    api
-
+   test
 
 Indices and tables
 ==================
