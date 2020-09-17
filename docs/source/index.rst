@@ -10,6 +10,7 @@ Welcome to Demo-wFRT's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   api
 
 
 Indices and tables
